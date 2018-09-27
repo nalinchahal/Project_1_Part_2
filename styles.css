@@ -1,0 +1,50 @@
+h1{ 
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+
+ }
+ p{
+ 	font-family: "Barlow", sans-serif;
+ 	font-size: 16px; 
+ 	color: white;
+  	text-align: center;
+
+ }
+body{
+	background-color: #66d9ff;
+}
+img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 40%;
+	padding: 20px 20px 20px 20px;
+	border-width: 20px 20px 20px 20px;
+	border-color: #ff4d4d;
+}
+a:link {
+    color: green;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: white;
+}
+a:active {
+    color: blue;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: underline;
+}
